@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<category>//a[@class='desktop-main']</category>
+<subcategory>//a[contains (@href,'men-sports-wear-tshirts')] [contains(text(),'Active T-Shirts')]</subcategory>
+<brand>//label[@class='vertical-filters-label common-customCheckbox'] [contains (text(),'Adidas')]</brand>
+<brand1>//label[@class='vertical-filters-label common-customCheckbox'] [contains (text(),'Nike')]</brand1>
+</menu>
